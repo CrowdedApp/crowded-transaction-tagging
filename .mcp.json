@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crowded": {
+      "type": "http",
+      "url": "https://crowdedfinance.com/mcp"
+    }
+  }
+}
