@@ -31,7 +31,8 @@ Learned rules belong to you, the signed-in Crowded user, and to the organization
 From the Claude plugin directory, or in Claude Code:
 
 ```
-/plugin install crowded-transaction-tagging --marketplace CrowdedApp/crowded-transaction-tagging
+/plugin marketplace add CrowdedApp/crowded-transaction-tagging
+/plugin install crowded-transaction-tagging@crowded-transaction-tagging
 ```
 
 Then say "set up Crowded tagging".
