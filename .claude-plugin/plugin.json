@@ -1,6 +1,6 @@
 {
   "name": "crowded-transaction-tagging",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Auto-tag and annotate your organization's settled transactions in Crowded, on an hourly schedule, with a digest to the channel you choose. Not on Crowded? Upload an export from QuickBooks, Xero, Mercury, your bank or a spreadsheet and get it tagged with a standard nonprofit taxonomy.",
   "author": {
     "name": "Crowded Technologies, Inc.",
@@ -8,8 +8,10 @@
     "url": "https://crowdedfinance.com"
   },
   "homepage": "https://crowdedfinance.com",
+  "privacyPolicyUrl": "https://crowdedfinance.com/legal/privacy-policy/",
   "repository": "https://github.com/CrowdedApp/crowded-transaction-tagging",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "crowded",
     "nonprofit",

@@ -12,7 +12,7 @@
       "name": "crowded-transaction-tagging",
       "source": "./",
       "description": "Auto-tag and annotate your organization's settled transactions in Crowded, on an hourly schedule, with a digest to the channel you choose. Not on Crowded? Upload an export and get it tagged with a standard nonprofit taxonomy.",
-      "version": "0.2.1"
+      "version": "0.2.2"
     }
   ]
 }
